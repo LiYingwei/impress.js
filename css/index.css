@@ -43,7 +43,7 @@ i, em { font-style: italic }
 
 .impress-enabled .step {
     margin: 0;
-    opacity: 0.3;
+    opacity: 0.15;
 
     -webkit-transition: opacity 1s;
     -moz-transition:    opacity 1s;
