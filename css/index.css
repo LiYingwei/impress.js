@@ -5,6 +5,7 @@
     font-size: 100%;
     font-family: "Hiragino Sans GB", SimHei, "Microsoft YaHei" , "Source Han Sans" , serif;
     vertical-align: baseline;
+    line-height: 145%;
 }
 
 
@@ -133,7 +134,7 @@ p {
 }
 
 #feature-1 p {
-    line-height:2.5;
+    line-height:180%;
 }
 
 #why1 {
