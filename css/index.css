@@ -3,7 +3,7 @@
     padding: 0;
     border: 0;
     font-size: 100%;
-    font-family: "Microsoft YaHei" , SimHei , "Source Han Sans" , serif;
+    font-family: SimHei, "Microsoft YaHei" , "Source Han Sans" , serif;
     vertical-align: baseline;
 }
 
@@ -56,7 +56,7 @@ i, em { font-style: italic }
 
 h3 {
     font-size : 80px;
-    font-family: NSimSun;
+    font-family: FZDaBiaoSong-B06S , NSimSun;
     position:relative;
     left: -50px;
     top: -20px;
@@ -72,17 +72,17 @@ ul {
 
 h4 {
     text-align: center;
-    font-family: "Microsoft YaHei" , SimHei , "Source Han Sans" , serif;
+    font-family: SimHei , "Microsoft YaHei" ,  "Source Han Sans" , serif;
     font-size: 100px;
 }
 
 p {
     text-align: left;
-    font-family: "Microsoft YaHei" , SimHei , "Source Han Sans" , serif;
+    font-family: SimHei ,"Microsoft YaHei"  , "Source Han Sans" , serif;
 }
 #title h1 {
     font-size : 100px;
-    font-family: NSimSun;
+    font-family: FZDaBiaoSong-B06S,NSimSun;
 }
 
 #yxh img {
