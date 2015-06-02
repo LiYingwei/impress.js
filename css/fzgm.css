@@ -171,25 +171,25 @@ p {
 /*
     ... and 'scaling' to scale down after another quarter of a second.
 */
-#yxh.present .scaling1 {
-    -webkit-transform: scale(1.2);
-    -moz-transform:    scale(1.2);
-    -ms-transform:     scale(1.2);
-    -o-transform:      scale(1.2);
-    transform:         scale(1.1);
+#sibi.present .sca1 {
+    -webkit-transform: scale(1.2) rotate(-30deg);
+    -moz-transform:    scale(1.2) rotate(-30deg);
+    -ms-transform:     scale(1.2)rotate(-30deg);
+    -o-transform:      scale(1.2)rotate(-30deg);
+    transform:         scale(1.2) rotate(-30deg);
 
     -webkit-transition-delay: 1.0s;
-    -moz-transition-delay:    0.5s;
-    -ms-transition-delay:     0.5s;
-    -o-transition-delay:      0.5s;
+    -moz-transition-delay:    1.0s;
+    -ms-transition-delay:     1.0s;
+    -o-transition-delay:      1.0s;
     transition-delay:         1.0s;
 }
-#yxh.present .scaling2 {
-    -webkit-transform: scale(1.2);
-    -moz-transform:    scale(1.2);
-    -ms-transform:     scale(1.2);
-    -o-transform:      scale(1.2);
-    transform:         scale(1.2);
+#sibi.present .sca2 {
+    -webkit-transform: scale(1.2) rotate(30deg);
+    -moz-transform:    scale(1.2) rotate(30deg);
+    -ms-transform:     scale(1.2) rotate(30deg);
+    -o-transform:      scale(1.2) rotate(30deg);
+    transform:         scale(1.2) rotate(30deg);
 
     -webkit-transition-delay: 1.5s;
     -moz-transition-delay:    0.75s;
@@ -282,11 +282,12 @@ p {
 }
 
 #sibi h4 {
-	font-size: 300%;
+	font-size: 200%;
 }
 #sibi p {
 	text-align: center;
 }
 #sibi .em {
 	font-size: 250%;
+    color:red;
 }
